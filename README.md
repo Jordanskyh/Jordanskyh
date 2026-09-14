@@ -9,7 +9,7 @@ reasons nobody wrote down.
 
 ---
 
-### Tax Advisory
+### Tax Consultant
 
 Corporate and cross-border tax structuring, compliance review, and transfer
 pricing documentation. I advise on restructuring decisions before they become
