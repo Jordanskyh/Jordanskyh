@@ -1,6 +1,6 @@
 # Jordansky
 
-**Tax Consultant & Machine Learning Engineer — Amsterdam, Netherlands**
+**Tax Consultant & Machine Learning Engineer - Amsterdam, Netherlands**
 
 I work across two disciplines that rarely meet: tax advisory and applied
 machine learning. The first taught me to read rules carefully and defend a
