@@ -1,4 +1,4 @@
-# Jordan
+# Jordansky
 
 **Tax Consultant & Machine Learning Engineer — Amsterdam, Netherlands**
 
