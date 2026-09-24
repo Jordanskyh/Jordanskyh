@@ -1,4 +1,4 @@
-# Jordansky
+# Abdul Jordan Cruise
 
 **Tax Consultant & Machine Learning Engineer - Amsterdam, Netherlands**
 
