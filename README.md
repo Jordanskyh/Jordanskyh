@@ -39,4 +39,4 @@ against a validator rather than a benchmark I chose myself.
 
 Open to consulting work in either field.
 
-**[Ilfananpr@gmail.com](mailto:Ilfananpr@gmail.com)**
+**[ilfan.sherafmor@gmail.com](mailto:ilfan.sherafmor@gmail.com)**
